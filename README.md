@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ephraim Elgrabli</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
 
 <p align="left"> <img src=" ephraimelgrabli&label=Profile%20views&color=0e75b6&style=flat" alt="ephraimelgrabli" /> </p>
 
-- 📫 How to reach me **EphraimElgrabli@gmail.com**
+- 📫 How to reach me **Ephraim.Elgrabli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
