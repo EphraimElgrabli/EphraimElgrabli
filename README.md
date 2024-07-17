@@ -1,8 +1,5 @@
 <h1 align="center">Hi There👋, I'm Ephraim Elgrabli</h1>
 
-
-- 📫 How to reach me **Ephraim.Elgrabli@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ephraim-g-elgrabli-43810422a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ephraim g. elgrabli" height="30" width="40" /></a>
