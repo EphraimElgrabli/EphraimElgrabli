@@ -1,9 +1,49 @@
-<h1 align="center">Hi There👋, I'm Ephraim Elgrabli</h1>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ephraim-g-elgrabli-43810422a" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ephraim g. elgrabli" height="30" width="40" /></a>
+<!-- Header with Animated Doodle -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/header.gif" alt="Animated Doodle" width="600"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<!-- Animated Typing Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Software+Engineer;Security+Researcher;Frontend+Enthusiast;Doodle+Lover" alt="Typing SVG">
+</p>
+
+<!-- Tech Stack Icons with Animations -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cs,cpp,figma,ps" alt="Tech Stack" />
+</p>
+
+<!-- Fun Animated Doodle Divider -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/divider.gif" alt="Divider Doodle" width="800"/>
+</p>
+
+<!-- Pinned Projects Showcase -->
+<h2 align="center">🔭 Featured Projects</h2>
+<p align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=transparent&title_color=000&text_color=000&icon_color=000" alt="Project 1">
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=transparent&title_color=000&text_color=000&icon_color=000" alt="Project 2">
+  </a>
+  <a href="https://github.com/yourusername/project3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project3&theme=transparent&title_color=000&text_color=000&icon_color=000" alt="Project 3">
+  </a>
+  <a href="https://github.com/yourusername/project4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project4&theme=transparent&title_color=000&text_color=000&icon_color=000" alt="Project 4">
+  </a>
+</p>
+
+<!-- More Fun Doodles -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/footer.gif" alt="Footer Doodle" width="600"/>
+</p>
+
+<!-- Connect with Me -->
+<h3 align="center">📫 Let's Connect!</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
