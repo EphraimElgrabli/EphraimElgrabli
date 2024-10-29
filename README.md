@@ -13,17 +13,9 @@
   <img src="https://skillicons.dev/icons?i=python,javascript,cs,cpp,figma,ps" alt="Tech Stack" />
 </p>
 
-<!-- Fun Animated Doodle Divider -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/divider.gif" alt="Divider Doodle" width="800"/>
-</p>
-
-<!-- More Fun Doodles -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/footer.gif" alt="Footer Doodle" width="600"/>
-</p>
 
 <!-- Connect with Me -->
+<h3 align="center"></h3>
 <h3 align="center">📫 Let's Connect!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
