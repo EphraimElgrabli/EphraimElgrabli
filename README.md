@@ -15,8 +15,9 @@
 
 
 <!-- Connect with Me -->
-<h3 align="center"></h3>
-<h3 align="center">📫 Let's Connect!</h3>
+<h3 align="center">📫</h3>
+
+<h3 align="center">Let's Connect!</h3>
 <p align="center">
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
