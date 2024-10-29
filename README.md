@@ -5,7 +5,7 @@
 
 <!-- Animated Typing Introduction -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Software+Engineer;Security+Researcher;Frontend+Enthusiast;Doodle+Lover" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=Software+Engineer;Security+Researcher;Frontend+Enthusiast" alt="Typing SVG">
 </p>
 
 <!-- Tech Stack Icons with Animations -->
